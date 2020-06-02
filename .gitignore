@@ -1,0 +1,8 @@
+/BlazorLib/Blazors/obj
+/BlazorLib/TestBlazor/obj
+/BlazorPWA/TestBlazorPWA/Client/obj
+/BlazorPWA/TestBlazorPWA/Server/obj
+/BlazorPWA/TestBlazorPWA/Shared/obj
+/BlazorServer/TestBlazor/obj
+/BlazorServer/TestBlazor2/obj
+/BlazorWebAssembly/TestBlazorAssembly/obj

@@ -1,0 +1,63 @@
+﻿@page "/BlazorStrap"
+@using BlazorStrap
+
+
+开源 Blazor 控件库
+<a href="https://blazorstrap.io/">BlazorStrap</a>
+
+
+<BSContainer>
+    <BSRow>
+        <BSCol>.col</BSCol>
+    </BSRow>
+    <BSRow>
+        <BSCol>.col</BSCol>
+        <BSCol>.col</BSCol>
+        <BSCol>.col</BSCol>
+        <BSCol>.col</BSCol>
+    </BSRow>
+    <BSRow>
+        <BSCol XS="6" SM="4">.col-6 .col-sm-4</BSCol>
+        <BSCol XS="6" SM="4">.col-6 .col-sm-4</BSCol>
+        <BSCol SM="4">.col-sm-4</BSCol>
+    </BSRow>
+    <BSRow>
+        <BSCol MD="6">
+            <BSButton Color="Color.Primary">primary</BSButton>
+            <BSButton Color="Color.Secondary">secondary</BSButton>
+            <BSButton Color="Color.Success">success</BSButton>
+            <BSButton Color="Color.Info">info</BSButton>
+            <BSButton Color="Color.Warning">warning</BSButton>
+            <BSButton Color="Color.Danger">danger</BSButton>
+            <BSButton Color="Color.Light">light</BSButton>
+            <BSButton Color="Color.Dark">dark</BSButton>
+            <BSButton Color="Color.Link">link</BSButton>
+
+            <BSAlert Color="Color.Primary">This is a primary BSAlert — check it out!</BSAlert>
+            <BSDropdown>
+                <BSDropdownToggle>Dropdown</BSDropdownToggle>
+                <BSDropdownMenu>
+                    <BSDropdownItem Href="javascript:void(0);">Action</BSDropdownItem>
+                    <BSDropdownItem Href="javascript:void(0);">Another Action</BSDropdownItem>
+                    <BSDropdownItem Href="javascript:void(0);">Yet Another Action</BSDropdownItem>
+                </BSDropdownMenu>
+            </BSDropdown>
+
+            <BSButton Color="Color.Primary" @onclick="@(() => LiveDemo.Show())">Launch demo modal</BSButton>
+        </BSCol>
+    </BSRow>
+</BSContainer>
+<BSModal @ref="LiveDemo">
+    <BSModalHeader OnClick="@(() => LiveDemo.Hide())">Modal title</BSModalHeader>
+    <BSModalBody><p>Modal body text goes here.</p></BSModalBody>
+    <BSModalFooter>
+        <BSButton Color="Color.Secondary" @onclick="@(() => LiveDemo.Hide())">Close</BSButton>
+        <BSButton Color="Color.Primary" @onclick="@(() => LiveDemo.Hide())">Save Changes</BSButton>
+    </BSModalFooter>
+</BSModal>
+
+
+
+@code {
+    BSModal LiveDemo;
+}

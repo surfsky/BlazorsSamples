@@ -1,0 +1,22 @@
+﻿@if (Show)
+{
+    <div class="dialog-container">
+        <h1>@Title</h1>
+        <div class="dialog">
+            @ChildContent
+        </div>
+        <button @onclick="OnYes" class="btn btn-primary" >Yes!</button>
+    </div>
+}
+
+
+@code {
+    [Parameter] public bool Show { get; set; }
+    [Parameter] public string Title { get; set; }
+    [Parameter] public RenderFragment ChildContent { get; set; }
+
+    private void OnYes()
+    {
+        Console.WriteLine("Write to the console in C#! 'Yes' button was selected.");
+    }
+}

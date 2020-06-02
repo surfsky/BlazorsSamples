@@ -1,0 +1,35 @@
+﻿@page "/MatBlazor"
+@using MatBlazor;
+
+
+开源 Blazor 控件库
+<a href="https://www.matblazor.com/">matblazor</a>
+
+<MatH5>Gender</MatH5>
+<MatRadioGroup TValue="string">
+    <MatRadioButton Value="@string.Empty" TValue="string">Default</MatRadioButton>
+    <MatRadioButton Value="@("f")" Label="Female" TValue="string"></MatRadioButton>
+    <MatRadioButton Value="@("m")" TValue="string">Male</MatRadioButton>
+    <MatRadioButton Value="@("d")" Disabled="true" TValue="string">Disabled</MatRadioButton>
+</MatRadioGroup>
+
+
+
+@code {
+    decimal? testingNullableDecimal1 = 0m;
+    decimal? testingNullableDecimal2 = null;
+    decimal? testingNullableDecimal3 = null;
+    decimal? testingNullableDecimal4 = null;
+    decimal testingCurrency = 0m;
+
+    string ButtonState = "";
+
+    void Click(MouseEventArgs e)
+    {
+        ButtonState = "Clicked";
+        testingNullableDecimal1 += 1;
+        testingNullableDecimal2 += 100;
+    }
+
+}
+
