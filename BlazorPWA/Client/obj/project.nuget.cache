@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9zrNjZnwro5Bz6a+o4tbXHTGOcNghe4Xzszm7EQD14X0rZrkbSXdHBxidUm/TdQlDW/8qzdQHuTZBxvLyER/TA==",
+  "dgSpecHash": "1F2Lt6ga2QZ+vGKWv2y+fqJAPFOdfEub10jJKUkcu0EmtKansENDmB7tT8m545y+QcSS+oDKoXPNXWbOI0py2g==",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazor2\\BlazorPWA\\TestBlazorPWA\\Client\\TestBlazorPWA.Client.csproj",
+  "projectFilePath": "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazors-github\\BlazorPWA\\Client\\TestBlazorPWA.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CJH\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.3\\microsoft.aspnetcore.authorization.3.1.3.nupkg.sha512",
     "C:\\Users\\CJH\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.3\\microsoft.aspnetcore.components.3.1.3.nupkg.sha512",

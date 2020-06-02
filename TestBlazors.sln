@@ -32,6 +32,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorLib", "BlazorLib\Blaz
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestBlazorLib", "BlazorLib\TestBlazor\TestBlazorLib.csproj", "{8435574D-2667-4E03-9592-2A3502B0E4A3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Snap", "Snap", "{536BFC84-2609-4C81-A4A5-578CBE5756AF}"
+	ProjectSection(SolutionItems) = preProject
+		Snap\Blazor.png = Snap\Blazor.png
+		Snap\BlazorLoad.png = Snap\BlazorLoad.png
+		Snap\BlazorReload.png = Snap\BlazorReload.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+ozM1V8Js0w38mb9h1C7WAtGwPUveGXct/WcVLg9AbDOphqfSEphP/Wjk3ske0mhye3FzdepfuHoiN06v1nWXw==",
+  "dgSpecHash": "WJY6Yy7LU6D1UUrzQRNUiI1itdmVDk5bLfoz5ctKozy0sjj5N9hRWWZsEC7Wc3gwmfQxEauobYiPaOusO7xOfQ==",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazor2\\BlazorPWA\\TestBlazorPWA\\Shared\\TestBlazorPWA.Shared.csproj",
+  "projectFilePath": "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazors-github\\BlazorPWA\\Shared\\TestBlazorPWA.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

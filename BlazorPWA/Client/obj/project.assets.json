@@ -1474,11 +1474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazor2\\BlazorPWA\\TestBlazorPWA\\Client\\TestBlazorPWA.Client.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazors-github\\BlazorPWA\\Client\\TestBlazorPWA.Client.csproj",
       "projectName": "TestBlazorPWA.Client",
-      "projectPath": "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazor2\\BlazorPWA\\TestBlazorPWA\\Client\\TestBlazorPWA.Client.csproj",
+      "projectPath": "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazors-github\\BlazorPWA\\Client\\TestBlazorPWA.Client.csproj",
       "packagesPath": "C:\\Users\\CJH\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazor2\\BlazorPWA\\TestBlazorPWA\\Client\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazors-github\\BlazorPWA\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -1499,8 +1499,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazor2\\BlazorPWA\\TestBlazorPWA\\Shared\\TestBlazorPWA.Shared.csproj": {
-              "projectPath": "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazor2\\BlazorPWA\\TestBlazorPWA\\Shared\\TestBlazorPWA.Shared.csproj"
+            "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazors-github\\BlazorPWA\\Shared\\TestBlazorPWA.Shared.csproj": {
+              "projectPath": "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazors-github\\BlazorPWA\\Shared\\TestBlazorPWA.Shared.csproj"
             }
           }
         }
