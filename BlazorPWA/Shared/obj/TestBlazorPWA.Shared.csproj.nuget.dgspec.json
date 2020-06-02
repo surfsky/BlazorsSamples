@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazor2\\BlazorPWA\\TestBlazorPWA\\Shared\\TestBlazorPWA.Shared.csproj": {}
+  },
+  "projects": {
+    "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazor2\\BlazorPWA\\TestBlazorPWA\\Shared\\TestBlazorPWA.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazor2\\BlazorPWA\\TestBlazorPWA\\Shared\\TestBlazorPWA.Shared.csproj",
+        "projectName": "TestBlazorPWA.Shared",
+        "projectPath": "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazor2\\BlazorPWA\\TestBlazorPWA\\Shared\\TestBlazorPWA.Shared.csproj",
+        "packagesPath": "C:\\Users\\CJH\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Downloads\\DevNet\\AspNetCore\\Blazor\\TestBlazor2\\BlazorPWA\\TestBlazorPWA\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CJH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.4.20268.1\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -12,11 +12,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestBlazorAssembly", "BlazorWebAssembly\TestBlazorAssembly\TestBlazorAssembly.csproj", "{75CC77FC-1F47-4694-83B1-2F4284CBB570}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestBlazorPWA.Server", "BlazorPWA\TestBlazorPWA\Server\TestBlazorPWA.Server.csproj", "{0DB831EA-F27C-443B-BEC5-A665486347D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestBlazorPWA.Server", "BlazorPWA\Server\TestBlazorPWA.Server.csproj", "{0DB831EA-F27C-443B-BEC5-A665486347D8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestBlazorPWA.Client", "BlazorPWA\TestBlazorPWA\Client\TestBlazorPWA.Client.csproj", "{671D224A-B995-46DE-B41A-0078BE3E9BE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestBlazorPWA.Client", "BlazorPWA\Client\TestBlazorPWA.Client.csproj", "{671D224A-B995-46DE-B41A-0078BE3E9BE2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestBlazorPWA.Shared", "BlazorPWA\TestBlazorPWA\Shared\TestBlazorPWA.Shared.csproj", "{4510B362-3513-411A-8CE9-F07821E4880D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestBlazorPWA.Shared", "BlazorPWA\Shared\TestBlazorPWA.Shared.csproj", "{4510B362-3513-411A-8CE9-F07821E4880D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestBlazor", "BlazorServer\TestBlazor\TestBlazor.csproj", "{38977DCA-BD43-4A3D-9711-64DB1018FE40}"
 EndProject

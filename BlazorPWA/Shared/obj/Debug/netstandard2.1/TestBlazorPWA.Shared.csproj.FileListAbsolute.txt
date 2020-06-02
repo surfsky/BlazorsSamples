@@ -1,0 +1,9 @@
+\\Mac\Home\Downloads\DevNet\AspNetCore\Blazor\TestBlazor2\BlazorPWA\TestBlazorPWA\Shared\bin\Debug\netstandard2.1\TestBlazorPWA.Shared.deps.json
+\\Mac\Home\Downloads\DevNet\AspNetCore\Blazor\TestBlazor2\BlazorPWA\TestBlazorPWA\Shared\bin\Debug\netstandard2.1\TestBlazorPWA.Shared.dll
+\\Mac\Home\Downloads\DevNet\AspNetCore\Blazor\TestBlazor2\BlazorPWA\TestBlazorPWA\Shared\bin\Debug\netstandard2.1\TestBlazorPWA.Shared.pdb
+\\Mac\Home\Downloads\DevNet\AspNetCore\Blazor\TestBlazor2\BlazorPWA\TestBlazorPWA\Shared\obj\Debug\netstandard2.1\TestBlazorPWA.Shared.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\DevNet\AspNetCore\Blazor\TestBlazor2\BlazorPWA\TestBlazorPWA\Shared\obj\Debug\netstandard2.1\TestBlazorPWA.Shared.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\DevNet\AspNetCore\Blazor\TestBlazor2\BlazorPWA\TestBlazorPWA\Shared\obj\Debug\netstandard2.1\TestBlazorPWA.Shared.AssemblyInfo.cs
+\\Mac\Home\Downloads\DevNet\AspNetCore\Blazor\TestBlazor2\BlazorPWA\TestBlazorPWA\Shared\obj\Debug\netstandard2.1\TestBlazorPWA.Shared.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\DevNet\AspNetCore\Blazor\TestBlazor2\BlazorPWA\TestBlazorPWA\Shared\obj\Debug\netstandard2.1\TestBlazorPWA.Shared.dll
+\\Mac\Home\Downloads\DevNet\AspNetCore\Blazor\TestBlazor2\BlazorPWA\TestBlazorPWA\Shared\obj\Debug\netstandard2.1\TestBlazorPWA.Shared.pdb
